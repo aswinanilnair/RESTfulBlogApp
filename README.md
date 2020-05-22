@@ -10,3 +10,4 @@ You must have NodeJS installed on your computer :)
  - Download the repository and navigate into it.
  - Run `npm install` on your terminal to install all dependencies.
  - To start the app run `node app.js`
+ - Go to `http://localhost:3000` to see it running.
