@@ -118,5 +118,5 @@ app.delete('/blog/:id',function(req,res){
 })
 
 app.listen(3000,function(){
-    console.log("Server is running")
+    console.log("Server is running at http://localhost:3000")
 });
